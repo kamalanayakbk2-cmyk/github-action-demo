@@ -1,1 +1,1 @@
-print("hello,CI")
+print("hello,Github workflow!")
